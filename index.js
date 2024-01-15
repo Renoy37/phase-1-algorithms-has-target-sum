@@ -9,7 +9,7 @@ function hasTargetSum(array, target) {
       }
     }
   }
-  // If no such pair is found, return false
+  // If no pair is found, return false
   return false;
 }
 
